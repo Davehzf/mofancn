@@ -133,14 +133,14 @@
     git：https://gitee.com/feixiangni/platform
 
 ### 登录页面
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/2148136661c3fe.png "登录")
+![](http://image.meiping123.com/upload/20180413/1146147845f6e4.png "登录")
 ### 首页
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/214845752e735c.png "首页")
+![](http://image.meiping123.com/upload/20180413/1147025253e40d.png "首页")
 ### 发送短信
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/214922955b884f.png "发送短信")
+![](http://image.meiping123.com/upload/20180413/1147169100e836.png "发送短信")
 ### 捐赠
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/214952238bda7e.png "捐赠")
+![](http://image.meiping123.com/upload/20180413/114740282ff88f.png "捐赠")
 ### 小程序首页
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/2150559434c33e.png "小程序首页")
-### 小程序分类页面
-![](http://7xqbwh.dl1.z0.glb.clouddn.com/20171218/215133346b45e8.png "小程序分类页面")
+![](http://image.meiping123.com/upload/20180413/114828132c9d85.png "小程序首页")
+### VUE页面
+![](http://image.meiping123.com/upload/20180413/1148416407a795.png "VUE页面")
