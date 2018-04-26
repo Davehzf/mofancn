@@ -1,4 +1,4 @@
-var NewApiRootUrl = 'http://localhost:8080/admin/api/';
+var NewApiRootUrl = 'http://localhost:8080/platform-framewor/api/';
 
 module.exports = {
     IndexUrl: NewApiRootUrl + 'index/index', //首页数据接口
