@@ -98,4 +98,5 @@ target/
 .settings/
 .project
 .classpath
-
+platform-admin/src/main/resources/dev/
+wx-mall/
