@@ -80,7 +80,7 @@ platform-admin/src/test/
 platform-admin/target/
 platform-api/src/test/
 platform-api/target/
-platform-common/src/test/
+## platform-common/src/test/
 platform-common/target/
 platform-framework/src/main/java/
 platform-framework/src/main/resources/
@@ -91,3 +91,12 @@ platform-schedule/target/
 platform-shiro/src/test/
 platform-shiro/target/
 platform-shop/target/
+
+#eclipse 
+
+target/
+.settings/
+.project
+.classpath
+platform-admin/src/main/resources/dev/
+wx-mall/
